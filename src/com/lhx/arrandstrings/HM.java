@@ -1,4 +1,4 @@
-package arraysandstrings;
+package com.lhx.arrandstrings;
 
 class Node {
 	String key;

@@ -1,4 +1,4 @@
-package arraysandstrings;
+package com.lhx.arrandstrings;
 
 
 //判断是否一个字符串中的字符是唯一的
