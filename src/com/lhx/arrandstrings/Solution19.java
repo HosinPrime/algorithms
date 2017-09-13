@@ -7,6 +7,7 @@ public class Solution19 {
 		String s1 = "waterbottle";
 		String s2 = "erbottlewat";
 		System.out.println(isRotate(s1, s2));
+		System.out.println("...............");
 
 
 	}
